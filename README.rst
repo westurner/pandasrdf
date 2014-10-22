@@ -2,22 +2,39 @@
 bambu
 ===============================
 
-.. image:: https://badge.fury.io/py/bambu.png
-    :target: http://badge.fury.io/py/bambu
-
-.. image:: https://travis-ci.org/westurner/bambu.png?branch=master
-        :target: https://travis-ci.org/westurner/bambu
-
-.. image:: https://pypip.in/d/bambu/badge.png
-        :target: https://pypi.python.org/pypi/bambu
-
-
 Bambu integrates Pandas and RDF
 
 * Free software: BSD license
-* Documentation: https://bambu.readthedocs.org.
+
+.. * Documentation: https://bambu.readthedocs.org.
 
 Features
 --------
 
-* TODO
+* [ ] ``to_rdf``
+* [ ] ``from_rdf``
+
+* [ ] ``to_rdfa``
+* [ ] ``from_rdfa``
+
+* [ ] ``to_jsonld``
+* [ ] ``from_jsonld``
+
+See: https://github.com/pydata/pandas/issues/3402
+
+
+Installation
+-------------
+
+1. Install pandas
+
+2. Install bambu::
+
+   pip install -e https://github.com/westurner/bambu#egg=bambu
+
+
+Usage
+------
+::
+
+    TODO: See bambu/tests/test_bambu.py
