@@ -12,13 +12,13 @@ Features
 --------
 
 * [ ] ``to_rdf``
-* [ ] ``from_rdf``
+* [ ] ``read_rdf``
 
 * [ ] ``to_rdfa``
-* [ ] ``from_rdfa``
+* [ ] ``read_rdfa``
 
 * [ ] ``to_jsonld``
-* [ ] ``from_jsonld``
+* [ ] ``read_jsonld``
 
 See: https://github.com/pydata/pandas/issues/3402
 

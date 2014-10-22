@@ -34,7 +34,17 @@ def to_rdf(df):
         df (DataFrame): pandas DataFrame to serialize to RDF
         kwargs (dict): TODO
     Returns:
-        RDFLib Graph
+        rdflib.Graph: a serializable RDFLib Graph
+    """
+
+
+def read_rdf(path, **kwargs):
+    """
+    Args:
+        path (str): path to an RDF source
+        kwargs (dict): TODO
+    Returns:
+        DataFrame: pandas DataFrame
     """
 
 
@@ -48,10 +58,30 @@ def to_rdfa(df, **kwargs):
     """
 
 
-def read_rdf(path, **kwargs):
+def read_rdfa(path, **kwargs):
     """
     Args:
         path (str): path to an RDF source
+        kwargs (dict): TODO
+    Returns:
+        DataFrame: pandas DataFrame
+    """
+
+
+def to_jsonld(df, **kwargs):
+    """
+    Args:
+        df (DataFrame): pandas DataFrame to serialize to RDF
+        kwargs (dict): TODO
+    Returns:
+        (context, StringIO): JSONLD context, JSONLD data
+    """
+
+
+def read_jsonld(path, **kwargs):
+    """
+    Args:
+        path (str): path to a JSONLD source
         kwargs (dict): TODO
     Returns:
         DataFrame: pandas DataFrame
