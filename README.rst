@@ -30,7 +30,7 @@ Installation
 
 2. Install bambu::
 
-   pip install -e https://github.com/westurner/bambu#egg=bambu
+    pip install -e https://github.com/westurner/bambu#egg=bambu
 
 
 Usage
