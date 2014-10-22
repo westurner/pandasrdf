@@ -12,11 +12,10 @@ readme = open('README.rst').read()
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 requirements = [
-    # TODO: put package requirements here
+    'rdflib',
 ]
 
 test_requirements = [
-    # TODO: put package test requirements here
 ]
 
 setup(
@@ -36,6 +35,10 @@ setup(
     install_requires=requirements,
     license="BSD",
     zip_safe=False,
+    entry_points="""
+    [console_scripts]
+    bambu = bambu.bambu:main
+    """,
     keywords='bambu',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
