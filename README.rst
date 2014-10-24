@@ -1,12 +1,12 @@
 ===============================
-pandas-rdf
+pandasrdf
 ===============================
 
-pandas-rdf integrates Pandas and RDF
+pandasrdf integrates Pandas and RDF
 
 * Free software: BSD license
 
-.. * Documentation: https://pandas-rdf.readthedocs.org.
+.. * Documentation: https://pandasrdf.readthedocs.org.
 
 Features
 --------
@@ -26,11 +26,11 @@ See: https://github.com/pydata/pandas/issues/3402
 Installation
 -------------
 
-1. Install pandas
+1. Install ``pandas``
 
-2. Install pandas-rdf::
+2. Install pandasrdf::
 
-    pip install -e https://github.com/westurner/pandas-rdf#egg=pandasrdf
+    pip install -e https://github.com/westurner/pandasrdf#egg=pandasrdf
 
 
 Usage
