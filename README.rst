@@ -37,4 +37,4 @@ Usage
 ------
 ::
 
-    TODO: See pandasrdf/tests/test_bambu.py
+    TODO: See pandasrdf/tests/test_pandasrdf.py
