@@ -1,12 +1,12 @@
 ===============================
-bambu
+pandas-rdf
 ===============================
 
-Bambu integrates Pandas and RDF
+pandas-rdf integrates Pandas and RDF
 
 * Free software: BSD license
 
-.. * Documentation: https://bambu.readthedocs.org.
+.. * Documentation: https://pandas-rdf.readthedocs.org.
 
 Features
 --------
@@ -28,13 +28,13 @@ Installation
 
 1. Install pandas
 
-2. Install bambu::
+2. Install pandas-rdf::
 
-    pip install -e https://github.com/westurner/bambu#egg=bambu
+    pip install -e https://github.com/westurner/pandas-rdf#egg=pandasrdf
 
 
 Usage
 ------
 ::
 
-    TODO: See bambu/tests/test_bambu.py
+    TODO: See pandasrdf/tests/test_bambu.py
