@@ -20,7 +20,10 @@ Features
 * [ ] ``to_jsonld``
 * [ ] ``read_jsonld``
 
-See: https://github.com/pydata/pandas/issues/3402
+Roadmap
+---------
+| Roadmap: https://github.com/westurner/pandasrdf/issues/1
+| seeAlso: https://github.com/pydata/pandas/issues/3402
 
 
 Installation
