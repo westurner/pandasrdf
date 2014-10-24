@@ -33,6 +33,11 @@ Installation
 
 1. Install ``pandas``
 
+   | Src: https://github.com/pydata/pandas
+   | Homepage: https://pandas.pydata.org/
+   | Documentation: http://pandas.pydata.org/pandas-docs/stable
+   | Documentation: https://pandas-docs.github.io/pandas-docs-travis/
+
 2. Install ``pandasrdf``
    ::
 
