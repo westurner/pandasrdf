@@ -28,7 +28,7 @@ Installation
 
 1. Install ``pandas``
 
-2. Install pandasrdf::
+2. Install ``pandasrdf``::
 
     pip install -e https://github.com/westurner/pandasrdf#egg=pandasrdf
 
