@@ -35,10 +35,14 @@ Installation
 
    | Src: https://github.com/pydata/pandas
    | Homepage: https://pandas.pydata.org/
+   | Pypi: https://pypi.python.org/pypi/pandas
    | Documentation: http://pandas.pydata.org/pandas-docs/stable
    | Documentation: https://pandas-docs.github.io/pandas-docs-travis/
 
 2. Install ``pandasrdf``
+
+   | Src: https://github.com/westurner/pandasrdf
+
    ::
 
     pip install -e https://github.com/westurner/pandasrdf#egg=pandasrdf
