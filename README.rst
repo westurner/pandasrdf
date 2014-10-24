@@ -4,6 +4,8 @@ pandasrdf
 
 pandasrdf integrates Pandas and RDF
 
+* https://en.wikipedia.org/wiki/Pandas_(software)
+* https://en.wikipedia.org/wiki/Resource_Description_Framework
 * Free software: BSD license
 
 .. * Documentation: https://pandasrdf.readthedocs.org.
